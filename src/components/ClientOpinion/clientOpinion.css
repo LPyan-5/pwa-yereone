@@ -1,0 +1,66 @@
+.testimonials {
+    margin-top: 40px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+.testimonials h3 {
+    font-weight: 300;
+    line-height: 1.1;
+    font-size: 20px;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #03acc1;
+    background-color: #f9f9f9;
+    padding: 8px;
+}
+
+.slider {
+    width: 100%;
+    outline: none;
+}
+
+.testimonial {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+    font-family: 'Poppins',sans-serif;
+    margin-right: 10px;
+}
+
+.testimonial img {
+    margin-bottom: 20px;
+    height: auto;
+    border: 0;
+    width: 30%;
+}
+
+.nameCountryDiv {
+    display: flex;
+    flex-direction: row;
+    font-style: italic;
+    margin-top: 0;
+
+}
+
+.country {
+    margin-left: 10px;
+    position: relative;
+    top: -3px;
+}
+
+.country img {
+    max-width: 100%;
+    height: auto;
+    border: 0;
+    width: 24px;
+}
+
+.job {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}

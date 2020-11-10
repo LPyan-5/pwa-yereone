@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Open Sans';
+  src:  
+    url('./fonts/opensans-400.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src:  
+    url('./fonts/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2') format('woff2');
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: 'blank-theme-icons';
+  src: url('https://www.yereone.com/static/version1600329120/frontend/Yereone/default/en_US/fonts/Blank-Theme-Icons/Blank-Theme-Icons.woff2') format('woff2');
+}
